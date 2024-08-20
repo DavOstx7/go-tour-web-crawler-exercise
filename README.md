@@ -23,3 +23,5 @@ After looking at other people's solutions, I realized the following points:
 For me, none of these are the **best**. Obviously, it all comes down to **preference**. However, out of these solutions, I would choose [sol8/main_v2.go](./sol8/main_v2.go) as the best one for its clean data flow and flexibility ([sol3/main_v2.go](./sol3/main_v2.go) and [sol6/main.go](./sol6/main.go) are also pretty nice).
 
 If I had refactored my initial parallel solutions ([sol1/main_v2.go](./sol1/main_v2.go), [sol1/main_v3.go](./sol1/main_v3.go)) arccording to the first three points from the `Realization` section, I would choose it as the best solution for its simplicity and readability.
+
+__NOTE__: I have just added the best solutions (in my opinion). If you strive for effeciency and simplicity, look at [best/main_v1.go](./best/main_v1.go). If you strive for flexibility and OOP style of code, look at [best/main_v4.go](./best/main_v4.go).
