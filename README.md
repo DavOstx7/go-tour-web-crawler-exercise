@@ -24,4 +24,6 @@ For me, none of these are the **best**. Obviously, it all comes down to **prefer
 
 If I had refactored my initial parallel solutions ([sol1/main_v2.go](./sol1/main_v2.go), [sol1/main_v3.go](./sol1/main_v3.go)) arccording to the first three points from the `Realization` section, I would choose it as the best solution for its simplicity and readability.
 
-__NOTE__: I have just added the best solutions (in my opinion). If you strive for effeciency and simplicity, look at [best/main_v1.go](./best/main_v1.go). If you strive for flexibility and OOP style of code, look at [best/main_v4.go](./best/main_v4.go).
+## Final Thoughts
+
+If you strive for effeciency and simplicity, look at [best/main_v1.go](./best/main_v1.go). If you strive for flexibility and OOP style of code, look at [best/main_v4.go](./best/main_v4.go).
